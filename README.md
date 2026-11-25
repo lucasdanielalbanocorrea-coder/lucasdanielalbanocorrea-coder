@@ -1,5 +1,7 @@
 ### Olá, eu sou o Lucas 👋
 
+<img src="assets/terminal.svg" alt="Terminal animado: whoami mostra Lucas, desenvolvedor backend; a stack é Java, Spring Boot, PostgreSQL e Docker; o build termina com sucesso; status: em busca de estágio ou vaga júnior" width="640">
+
 Desenvolvedor **backend**, focado em **Java e Spring Boot**. Gosto de construir APIs que resolvem
 problemas reais, com a regra de negócio no lugar certo, testes que usam o banco de verdade e cuidado com segurança
 desde o início.
