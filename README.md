@@ -1,10 +1,10 @@
 ### Olá, eu sou o Lucas 👋
 
-<img src="assets/terminal.svg" alt="Terminal animado: whoami mostra Lucas, desenvolvedor backend; a stack é Java, Spring Boot, PostgreSQL e Docker; o build termina com sucesso; status: em busca de estágio ou vaga júnior" width="640">
-
 Desenvolvedor **backend**, focado em **Java e Spring Boot**. Gosto de construir APIs que resolvem
 problemas reais, com a regra de negócio no lugar certo, testes que usam o banco de verdade e cuidado com segurança
 desde o início.
+
+<img src="assets/terminal.svg" alt="Terminal animado: whoami mostra Lucas, desenvolvedor backend; a stack é Java, Spring Boot, PostgreSQL e Docker; o build termina com sucesso; status: em busca de estágio ou vaga júnior" width="640">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
